@@ -1,2 +1,2 @@
 # Python_application_-_brainfuck_interpreter
-A simple interpreter of the BrainFuck programming language written in Python.
+A simple Python console application serving as an interpreter of the BrainFuck programming language.
